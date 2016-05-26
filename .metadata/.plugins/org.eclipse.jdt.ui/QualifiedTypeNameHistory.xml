@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+<fullyQualifiedTypeName name="java.util.Hashtable"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="StartState"/>
+<fullyQualifiedTypeName name="StopState"/>
+<fullyQualifiedTypeName name="Strategy"/>
+<fullyQualifiedTypeName name="Context"/>
+<fullyQualifiedTypeName name="OperationSubstract"/>
+<fullyQualifiedTypeName name="OperationMultiply"/>
+</qualifiedTypeNameHistroy>

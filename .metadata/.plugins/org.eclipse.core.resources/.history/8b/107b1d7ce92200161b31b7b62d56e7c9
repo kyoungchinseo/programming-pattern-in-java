@@ -1,0 +1,17 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class StudentBO {
+	List<StudentVO> students;
+
+	public StudentBO() {
+		students = new ArrayList<StudentVO>();
+		StudentVO student1 = new StudentVO("Robert", 0);
+		StudentVO student2 = new StudentVO("John", 1);
+		students.add(student1);
+		students.add(student2);
+	}
+	
+	
+	
+}

@@ -1,0 +1,15 @@
+
+public class BuyStock implements Order {
+
+	private Stock abcStock;
+	
+	public SellStock(Stock absStock) {
+		this.abcStock = absStock;
+	}
+	
+	@Override
+	public void execute() {
+		abcStock.sell();
+	}
+
+}

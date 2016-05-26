@@ -1,0 +1,16 @@
+import java.util.List;
+
+public class AndCriteria implements Criteria {
+
+
+	public AndCriteria(Criteria single, Criteria male) {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public List<Person> meetCriteria(List<Person> persons) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

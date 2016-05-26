@@ -1,0 +1,13 @@
+
+public class FrontController {
+	private Dispatcher dispatcher;
+	
+	public FrontController() {
+		dispatcher = new Dispatcher();
+	}
+	
+	private boolean isAuthenticUser() {
+		System.out.println("User is authenticated.");
+		return true;
+	}
+}

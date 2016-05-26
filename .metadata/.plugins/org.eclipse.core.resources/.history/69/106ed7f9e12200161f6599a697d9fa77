@@ -1,0 +1,6 @@
+
+public class DependentObject1 {
+	private String data;
+	
+	
+}

@@ -1,0 +1,6 @@
+
+public class Originator {
+	private String state;
+	
+	
+}

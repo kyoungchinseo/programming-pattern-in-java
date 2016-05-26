@@ -1,0 +1,7 @@
+
+public class ShapeMaker {
+	private Shape Circle;
+	private Shape Rectangle;
+	private Shape square;
+	
+}

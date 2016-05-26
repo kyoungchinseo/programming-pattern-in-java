@@ -1,0 +1,9 @@
+
+public abstract class RedShapeDecorator implements Shape {
+
+	@Override
+	public void draw() {
+
+	}
+
+}

@@ -1,0 +1,8 @@
+
+public class StudentVO {
+	private String name;
+	private int rollNo;
+	
+	
+	
+}

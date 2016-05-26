@@ -1,0 +1,15 @@
+import java.util.List;
+
+public class OrCriteria implements Criteria {
+
+	public OrCriteria(Criteria single, Criteria female) {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public List<Person> meetCriteria(List<Person> persons) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

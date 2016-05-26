@@ -1,0 +1,6 @@
+
+public class ProxyImage implements Image {
+	
+	
+
+}
